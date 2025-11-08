@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bquirozyanez
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in software development
 
 - 📫 How to reach me ... You can send me an email @bquirozyanez@gmail.com
 
